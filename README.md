@@ -5,6 +5,6 @@ I am a computer engineering student at Sakarya University
 
 Contact me
 maftunhashimli@gmail.com
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?MeftunH=page.id)
 ![snake gif](https://github.com/MeftunH/MeftunH/blob/output/github-contribution-grid-snake.gif)
 
