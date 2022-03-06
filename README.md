@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maftun</h1>
+<h1 align="center">Hi 👋, I'm Maftun.Nice to meet you</h1>
 <h3 align="center">I am a computer engineering student at Sakarya University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meftunh&label=Profile%20views&color=0e75b6&style=plastic" alt="meftunh" /> </p>
