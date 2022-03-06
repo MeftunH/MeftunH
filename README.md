@@ -27,6 +27,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meftunh&theme=dark&show_icons=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meftunh&show_icons=true&locale=en" alt="meftunh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meftunh&show_icons=true&locale=en&theme=dark" alt="meftunh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meftunh&" alt="meftunh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meftunh&theme=dark" alt="meftunh" /></p>
