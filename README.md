@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meftunh&theme=dark" alt="meftunh" /></a> </p>
 
-- 🔭 I’m currently working on **Epigra**
-
 - 🌱 I’m currently learning **Spring**
 
 - 💬 Ask me about **php,java,laravel,spring**
