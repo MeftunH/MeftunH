@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/maftunhashimli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maftunhashimli" height="30" width="40" /></a>
 <a href="https://discord.gg/0363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0363" height="30" width="40" /></a>
 </p>
-
+<h3 align="left">Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meftunh&show_icons=true&locale=en&theme=dark" alt="meftunh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meftunh&theme=dark" alt="meftunh" /></p>
