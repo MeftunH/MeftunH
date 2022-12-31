@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/meftunh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="meftunh" height="30" width="40" /></a>
+<a href="https://medium.com/@maftun.hashimli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="maftun.hashimli" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maftunhashimli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maftunhashimli" height="30" width="40" /></a>
-<a href="https://discord.gg/0363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0363" height="30" width="40" /></a>
+<a href="https://discord.gg/2403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0363" height="30" width="40" /></a>
 </p>
 <h3 align="left">Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meftunh&show_icons=true&locale=en&theme=dark" alt="meftunh" /></p>
