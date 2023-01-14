@@ -21,3 +21,4 @@
 </p>
 <h3 align="left">Stats:</h3>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=meftunh&theme=dark" alt="meftunh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MeftunH&theme=dark&show_icons=true" alt="meftunh" /></p>
