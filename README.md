@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 💬 Ask me about **php,java,laravel,spring**
+- 💬 Ask me about **php,java,js,laravel,spring,react,vue**
 
-- 📫 How to reach me **maftunhashimli@gmail.com**
+- 📫 You can reach me by **maftunhashimli@gmail.com**
 
 - ⚡ Fun fact **I love cats,coffee and coding**
 
