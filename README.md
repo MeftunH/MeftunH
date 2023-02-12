@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meftunh&theme=chalk" alt="meftunh" /></a> </p>
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Java and JS ecosystems**
 
 - 💬 Ask me about **php,java,js,laravel,spring,react,vue**
 
