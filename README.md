@@ -20,5 +20,4 @@
 <a href="https://discord.com/users/cld#2403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0363" height="30" width="40" /></a>
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MeftunH&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=MeftunH&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![Maftun's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeftunH)](https://github.com/anuraghazra/github-readme-stats)
