@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maftun.Nice to meet you</h1>
-<h3 align="center">I am a computer engineer</h3>
+<h3 align="center">I am software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meftunh&label=Profile%20views&color=0e75b6&style=plastic" alt="meftunh" /> </p>
 
