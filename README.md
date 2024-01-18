@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java and JS ecosystems**
 
-- 💬 Ask me about **php,java,js,laravel,spring,react,vue**
+- 💬 Ask me about **java,php,js,ts,laravel,spring,react,vue**
 
 - 📫 You can reach me by **maftunhashimli@gmail.com**
 
