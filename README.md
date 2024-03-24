@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://app.daily.dev/meftun"><img src="https://api.daily.dev/devcards/v2/0eZHkUA6b.png?r=ka0" width="356" alt="Maftun Hashimli's Dev Card"/></a></h1>
+<h1 align="center"><a href="https://app.daily.dev/meftun"><img src="https://api.daily.dev/devcards/v2/0eZHkUA6b.png?type=wide&r=ktq" width="652" alt="Maftun Hashimli's Dev Card"/></a></h1>
 
 <h1 align="center">Hi 👋, I'm Maftun.Nice to meet you</h1>
 <h3 align="center">I am software engineer</h3>
