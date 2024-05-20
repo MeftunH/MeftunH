@@ -12,7 +12,7 @@
 
 - 📫 You can reach me by **maftunhashimli@gmail.com**
 
-- ⚡ Fun fact **I love cats,coffee and coding**
+- ⚡ Fun fact **I love coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
