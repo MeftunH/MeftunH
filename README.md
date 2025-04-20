@@ -1,7 +1,9 @@
-# <div align="center">
+<div align="center">
+
+# Hi there! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Maftun;Software+Engineer;Data Science Enthusiast;%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Maftun;Software+Engineer;Data+Science+Enthusiast;%E2%98%95" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,6 +12,9 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://github.com/meftunh/meftunh/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 <div align="center">
   <h3>🚀 Software Engineer</h3>
@@ -28,20 +33,18 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
-## 💻 Technology Distribution
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meftunh&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  
-  
 ## 🛠️ Tech Stack
 
 <div align="center">
+  <h4>Core Technologies</h4>
   <img src="https://skillicons.dev/icons?i=java,spring,python,django,fastapi,php,laravel,js,ts,react,vue,nextjs,nuxtjs,tailwind&theme=dark" /><br>
+  <h4>Infrastructure & Tools</h4>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,postgres,mongodb,redis,mysql,git,linux,nginx,vscode,idea&theme=dark" />
 </div>
 
 ### Languages & Frameworks
+<div align="center">
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -72,6 +75,7 @@
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+</div>
 
 ## 📊 GitHub Stats
 
@@ -80,7 +84,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meftunh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meftunh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats Including Private Contributions" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meftunh&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
@@ -127,4 +131,6 @@
 
 <div align="center">
   <sub>Built with ❤️ by <a href="https://github.com/meftunh">Maftun Hashimli</a></sub>
+</div>
+
 </div>
