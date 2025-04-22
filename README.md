@@ -13,10 +13,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/meftunh/meftunh/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
   <h3>🚀 Software Engineer</h3>
   <p>Passionate about creating elegant problems to complex solutions</p>
 </div>
