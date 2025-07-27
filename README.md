@@ -23,7 +23,6 @@
 - 🌱 Currently exploring **Java and JavaScript ecosystems**
 - 💡 Experienced in full-stack development
 - 🔭 Always learning and improving my skills
-- ⚡ Not a fun fact: I love coffee ☕
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
